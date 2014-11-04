@@ -7,7 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <CoreData+MagicalRecord.h>
+#import "MainSet.h"
 
+@class MainSet;
 @interface ViewController : UIViewController
 
 
